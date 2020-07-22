@@ -1,6 +1,6 @@
 {
     "name": "FIA Extension Number Finder",
-    "short_name": "FIA",
+    "short_name": "FIA Extension Number Finder",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#F4F4F4",
